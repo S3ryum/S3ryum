@@ -6,15 +6,15 @@
   <img src="https://img.shields.io/badge/Minecraft_Developer-Java_%26_Kotlin-blue?style=for-the-badge" />
 </div>
 
-<br/>
+---
 
-### 🚀 Hakkımda
+### Hakkımda
 
 18 yaşında, Minecraft dünyasını kodlarla şekillendiren bir geliştiriciyim. Sunucuların performans canavarına dönüşmesini ve oyuncuların "Bunu nasıl yapmışlar?" dediği mekanikleri inşa etmeyi seviyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### Teknolojiler & Araçlar
 
 **Core Languages**
 <p align="left">
@@ -33,10 +33,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3ryum&theme=tokyonight&hide_border=true" alt="Seryum Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3ryum&theme=tokyonight&hide_border=true" alt="S3ryum Streak" />
 </div>
 
 <br />
@@ -48,12 +48,10 @@
 
 ---
 
-### 🌐 Connect With Me
+### İletişim
 
 <p align="left">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-S3ryum-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-S3ryum-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://www.seryumwp.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Website-seryumwp.xyz-333?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -65,8 +63,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S3ryum&repo=S3ryum&theme=tokyonight&hide_border=true" />
-  <br />
   <img src="https://raw.githubusercontent.com/TristanB0/TristanB0/master/snake.svg" width="100%" />
   <br />
   <i>"Kod yazmak sanattır, Minecraft ise benim tuvalim."</i>
