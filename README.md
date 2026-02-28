@@ -1,46 +1,46 @@
-# 👨‍💻 Selam, ben S3ryum!
+# S3ryum | Minecraft Systems Developer
 
-### 🎮 Minecraft Developer | Java & Kotlin Enthusiast
-
-18 yaşında, Minecraft dünyasını kodlarla şekillendiren bir geliştiriciyim. Sunucuların performans canavarına dönüşmesini ve oyuncuların "Bunu nasıl yapmışlar?" dediği mekanikleri inşa etmeyi seviyorum.
+I am an 18-year-old developer specializing in the Minecraft ecosystem. My focus is on architecting high-performance server environments and building innovative gameplay mechanics using Java and Kotlin.
 
 ---
 
-### 🚀 Neler Yapıyorum?
+### Core Competencies
 
-* **Plugin & Mod Geliştirme:** Java ve Kotlin kullanarak her türlü ihtiyaca yönelik (Mini oyunlar, sistemler) çözümler.
-* **Performans & Optimizasyon:** Sunucu taraflı lag (TPS) sorunlarını giderme ve verimli kod mimarisi.
-* **Custom Mechanics:** Standartların dışında, tamamen özelleştirilmiş oyun deneyimleri.
-* **Clean Code:** Sadece çalışan değil, okunduğunda şiir gibi gelen dokümante edilmiş kodlar.
+* **Plugin & Mod Development:** End-to-end solutions for mini-games and complex systems using Java/Kotlin.
+* **Performance Engineering:** Advanced TPS optimization and lag mitigation through efficient code architecture.
+* **Custom Game Mechanics:** Beyond-standard, fully customized gameplay experiences.
+* **Software Design:** Commitment to clean, documented, and maintainable code principles.
 
 ---
 
-### 🛠️ Kullandığım Araçlar & Teknolojiler
+### Tech Stack & Tools
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 | :--- | :--- |
-| **Diller** | `Java`, `Kotlin`, `SQL` |
-| **Frameworks** | `Spigot/Paper API`, `Velocity`, `Minestom`, `Fabric/Forge` |
-| **Araçlar** | `Git`, `IntelliJ IDEA`, `Gradle`, `Maven`, `Docker` |
-| **Veritabanı** | `MySQL`, `MongoDB`, `Redis`, `SQLite` |
+| **Languages** | Java, Kotlin, SQL |
+| **Frameworks** | Spigot, Paper API, Velocity, Minestom, Fabric, Forge |
+| **Tooling** | Git, IntelliJ IDEA, Gradle, Maven, Docker |
+| **Databases** | MySQL, MongoDB, Redis, SQLite |
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### GitHub Metrics
 
-![Seryum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S3ryum&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3ryum&layout=compact&theme=tokyonight)
-
----
-
-### 🔗 İletişim & Portfolyo
-
-Bana ulaşmak veya projelerime göz atmak istersen:
-
-* 🌐 **Web:** [www.seryumwp.xyz](https://www.seryumwp.xyz)
-* 💬 **Discord:** Seryum (Veya sunucunda beni bulabilirsin!)
-* ✉️ **E-posta:** buratkeskinsin@gmail.com
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=S3ryum&show_icons=true&theme=tokyonight&hide_border=true" alt="Seryum's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3ryum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-> "Kod yazmak sanattır, Minecraft ise benim tuvalim." 🎨
+### Contact & Portfolio
+
+For professional inquiries or project collaborations:
+
+* **Web:** [www.seryumwp.xyz](https://www.seryumwp.xyz)
+* **Discord:** S3ryum
+* **Email:** seryum@seryumwp.xyz
+
+---
+
+> "Coding is an art, and Minecraft is my canvas."
