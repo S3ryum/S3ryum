@@ -33,22 +33,22 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3ryum&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3ryum&theme=tokyonight&hide_border=true" alt="Seryum Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S3ryum&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3ryum&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S3ryum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3ryum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </div>
 
 ---
 
-### 🌐 İletişim
+### 🌐 Connect With Me
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-S3ryum-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
