@@ -6,6 +6,8 @@
 
 I like turning everyday problems into small, clear applications—with straightforward setup and useful documentation.
 
+Currently working at **[Orinium](https://orinium.net/)**.
+
 <a href="https://discord.com/users/981509484830674974"><img src="https://img.shields.io/badge/Discord-Seryum-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Seryum" /></a>
 <a href="https://github.com/S3ryum?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
 
