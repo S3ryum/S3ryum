@@ -23,6 +23,7 @@ I build practical software: small tools with a clear purpose, straightforward se
 | [Folder Map](https://github.com/S3ryum/folder-map) | Reports folder sizes and file types without changing files | C++ |
 | [DayBoard](https://github.com/S3ryum/dayboard) | Keeps a simple task board in browser storage | TypeScript |
 | [Ticket Nest](https://github.com/S3ryum/ticket-nest) | Runs private support tickets with staff controls and transcripts | TypeScript |
+| [KeySentry](https://github.com/S3ryum/key-sentry) | Locally spots likely exposed credentials without printing secret values | Python |
 | [Link Check](https://github.com/S3ryum/link-check) | Finds broken local links in Markdown files | Go |
 | [Readable Markdown](https://github.com/S3ryum/readable-markdown) | Summarizes word count and readability signals | Python |
 | [FlashDeck](https://github.com/S3ryum/flashdeck) | Reviews flashcards with a simple spaced schedule | Java |
