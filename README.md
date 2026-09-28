@@ -25,6 +25,7 @@ I build practical software: small tools with a clear purpose, straightforward se
 | [Link Check](https://github.com/S3ryum/link-check) | Finds broken local links in Markdown files | Go |
 | [Readable Markdown](https://github.com/S3ryum/readable-markdown) | Summarizes word count and readability signals | Python |
 | [FlashDeck](https://github.com/S3ryum/flashdeck) | Reviews flashcards with a simple spaced schedule | Java |
+| [LastMark](https://github.com/S3ryum/lastmark) | Saves a player's latest death location and points a compass back to it | Java |
 
 ## What I value
 
