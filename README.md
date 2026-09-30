@@ -30,7 +30,7 @@ Currently working at **[Orinium](https://orinium.net/)**.
 | Project | What it does | Language |
 |---|---|---|
 | [Ticket Nest](https://github.com/S3ryum/ticket-nest) | Runs private support tickets with staff controls and transcripts | TypeScript |
-| [KeySentry](https://github.com/S3ryum/key-sentry) | Locally spots likely exposed credentials without printing secret values | Python |
+| [KeySentry](https://github.com/S3ryum/key-sentry) | Locally spots likely exposed credentials without printing values; supports path-based scan exclusions | Python |
 | [LastMark](https://github.com/S3ryum/lastmark) | Saves a player's latest death location, shows its distance, and points a compass back to it | Java |
 
 ## More projects
