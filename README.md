@@ -51,7 +51,7 @@ Currently working at **[Orinium](https://orinium.net/)**.
 
 <p align="center">
   <picture>
-    <img src="https://metrics.lecoq.io/S3ryum" alt="GitHub activity and repository metrics for S3ryum" width="100%" />
+    <img src="./github-metrics.svg" alt="GitHub activity and repository metrics for S3ryum" width="100%" />
   </picture>
 </p>
 
